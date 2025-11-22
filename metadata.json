@@ -1,0 +1,9 @@
+{
+  "name": "GitRocket",
+  "description": "A comprehensive AI-powered DevOps Workbench. Transitioning to Desktop Architecture for native Git integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
